@@ -1,0 +1,26 @@
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\bin\Debug\spams new.exe
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\bin\Debug\spams new.pdb
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\bin\Debug\spams new.xml
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\ResolveAssemblyReference.cache
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form1.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form2.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Resources.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\GenerateResource.read.1.tlog
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\GenerateResource.write.1.tlog
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams new.exe
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams new.xml
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams new.pdb
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form3.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form4.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form5.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form6.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form7.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form8.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form10.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams_new.Form9.resources
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\bin\Debug\spams new.exe.config
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\bin\Debug\spams new.exe.manifest
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\bin\Debug\spams new.application
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams new.TrustInfo.xml
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams new.exe.manifest
+h:\documents and settings\inr ozu\my documents\visual studio 2010\Projects\spams new\spams new\obj\x86\Debug\spams new.application
